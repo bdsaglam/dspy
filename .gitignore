@@ -68,9 +68,14 @@ docs/docs/**/*.json*
 test_before_pypi/
 .github/.internal_dspyai/dist/
 
+# Temp
 tmp/
 
+# Ruler
 ruler/
+
+# MLflow
+mlartifacts/
 
 # START Ruler Generated Files
 *.bak
