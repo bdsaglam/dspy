@@ -10,12 +10,6 @@
       "headers": {
         "Authorization": "Bearer ${HF_TOKEN}"
       }
-    },
-    "playwright": {
-      "command": "npx",
-      "args": [
-        "@playwright/mcp@latest"
-      ]
     }
   }
 }
